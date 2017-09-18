@@ -1,5 +1,23 @@
 body {
+	font-family: Trebuchet MS;
 	background-color: #000000;
+}
+.redstuff {
+	color: red
+}
+.orangestuff {
+	color: orange
+}
+.yellowstuff {
+	color: yellow
+}
+footer {
+	margin-left: 5%;
+	margin-right: 5%;
+	color: white;
+}
+#copyrightinfo {
+	font-family: Times New Roman;
 }
 img {
 	padding-top: 15px;
